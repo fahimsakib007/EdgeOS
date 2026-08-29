@@ -522,7 +522,20 @@ The technical report documents:
 - Project limitations
 - Skills demonstrated
 
-**Technical Report:** `Add report link here after uploading the PDF to the repository`
+**Technical Report:** 
+
+📄 **[View / Download the EdgeOS Technical Report](EdgeOS_Technical_Report_FINAL.pdf)**
+
+The technical report includes:
+
+- System architecture
+- Memory-management implementation
+- System-call interface
+- Process management and scheduling
+- Resource-aware optimization
+- Experimental results
+- STAR-format technical challenges
+- Project limitations and future workAdd report link here after uploading the PDF to the repository`
 
 <!--
 Example after adding the report to docs/:
