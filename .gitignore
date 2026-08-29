@@ -1,0 +1,7 @@
+*.o
+kernel.bin
+EdgeOS.iso
+iso/boot/kernel.bin
+.vscode/
+.DS_Store
+*.save
