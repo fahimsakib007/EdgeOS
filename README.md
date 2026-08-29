@@ -494,18 +494,22 @@ This project demonstrates practical experience with:
 
 ## Demo Video
 
-A **2–5 minute faculty demonstration video** will be embedded here after completion.
+### EdgeOS - 2–3 Minute Faculty Demonstration
 
-**Video Demo:** `Coming Soon`
+[![Watch the EdgeOS Demo](https://img.youtube.com/vi/LxQLjPN0wLU/maxresdefault.jpg)](https://www.youtube.com/watch?v=LxQLjPN0wLU)
 
-<!--
-After uploading the final video, replace the section above with your final video link.
-For a YouTube video, you can use a clickable thumbnail such as:
+▶️ **[Watch the full EdgeOS demonstration on YouTube](https://www.youtube.com/watch?v=LxQLjPN0wLU)**
 
-[![Watch the EdgeOS Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
--->
+The video demonstrates:
 
----
+- Custom memory allocation and coalescing
+- External fragmentation reduction from **28% to 0%**
+- `SYS_MALLOC` and `SYS_FREE`
+- PCB-based process management
+- Priority and Round Robin scheduling
+- Resource-aware reclamation
+- Memory-pressure recovery from **CRITICAL to NORMAL**
+- Free-memory recovery from **171,984 B to 950,236 B**
 
 ## Technical Report
 
